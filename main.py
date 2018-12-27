@@ -1,5 +1,3 @@
-import requests
-import smtplib
 from email.mime.text import MIMEText
 from bs4 import BeautifulSoup
 from googleapiclient.discovery import build
