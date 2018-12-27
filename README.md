@@ -8,8 +8,7 @@ The code used for scraping the site, accessing chapter links, comparing with pre
 
 ### File info
 
-**chap_list.txt:**  
-Contains the links for the latest version of the chapters for each novel that was specified by the user.
+**chap_list.txt:** Contains the links for the latest version of the chapters for each novel that was specified by the user.
 
 **credentials.json:**
 User credentials to securely log into the GMail platform.
